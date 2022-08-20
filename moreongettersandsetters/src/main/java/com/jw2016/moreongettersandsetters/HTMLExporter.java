@@ -1,4 +1,6 @@
-import com.jw2016.moreongettersandsetters.Employee;
+package com.jw2016.moreongettersandsetters;
+
+// import com.jw2016.moreongettersandsetters.Employee;
 
 /** This particular importer creates only that part of the
  *  HTML page that represents attrubutes of the Employee.
